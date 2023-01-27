@@ -1,6 +1,7 @@
-alias l='ls -C --group-directories-first'
-alias la='ls -A --group-directories-first'
-alias ll='ls -lGh --group-directories-first --sort=extension'
+alias ls='ls --color --group-directories-first'
+alias l='ls -C'
+alias la='ls -A'
+alias ll='ls -lGh --sort=extension'
 
 alias de='cd ~/Desktop'
 alias dl='cd ~/Downloads'
